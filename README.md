@@ -1,7 +1,3 @@
-Test commit 2
+The point of this project to to cearte a website that will help people compare medical costs between diffrence hospitals. This will allow people to make more informed decisions about their health care. This is important because it puts the control of health care back in the hands of the consumer intead of the health insurance companies. 
 
-Test commit 3
-
-Test commit 4
-
-Test commit 5
+Under the The No Surprises Act (https://www.cms.gov/nosurprises) hospitals are required to publish their chargemaster prices for all services. This project will allow users to input the service they are looking up and then it will display the chargemaster price for that service at all the local hospitals. 
