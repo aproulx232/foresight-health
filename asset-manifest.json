@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/foresight-health/static/css/main.a3040a7d.css",
-    "main.js": "/foresight-health/static/js/main.44e17cfe.js",
+    "main.js": "/foresight-health/static/js/main.25d9569a.js",
     "static/js/488.aa9a373a.chunk.js": "/foresight-health/static/js/488.aa9a373a.chunk.js",
     "index.html": "/foresight-health/index.html",
     "main.a3040a7d.css.map": "/foresight-health/static/css/main.a3040a7d.css.map",
-    "main.44e17cfe.js.map": "/foresight-health/static/js/main.44e17cfe.js.map",
+    "main.25d9569a.js.map": "/foresight-health/static/js/main.25d9569a.js.map",
     "488.aa9a373a.chunk.js.map": "/foresight-health/static/js/488.aa9a373a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3040a7d.css",
-    "static/js/main.44e17cfe.js"
+    "static/js/main.25d9569a.js"
   ]
 }
