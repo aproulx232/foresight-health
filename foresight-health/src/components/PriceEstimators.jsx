@@ -9,6 +9,24 @@ function PriceEstimators() {
       url: "https://iuhealth.org/schedule-an-appointment/price-estimates",
       description: "Price estimation tool for IU Health services and procedures"
     },
+    {
+      name: "Community Health Network",
+      location: "Indiana",
+      url: "https://mychart.ecommunity.com/MyChart/GuestEstimates/",
+      description: "Access Community Health Network's MyChart price estimation tool for medical procedures and services"
+    },
+    {
+      name: "Ascension Health",
+      location: "Indiana",
+      url: "https://price-estimator.ascension.org/select-service/categories",
+      description: "Ascension Health's price estimation tool for healthcare services and procedures"
+    },
+    {
+      name: "Franciscan Health",
+      location: "Indiana",
+      url: "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency",
+      description: "Franciscan Health's price transparency tool for hospital services and procedures"
+    }
     // Add more hospitals here in the same format
   ];
 

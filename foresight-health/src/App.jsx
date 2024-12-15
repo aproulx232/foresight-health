@@ -13,16 +13,16 @@ function App() {
           <nav>
             <ul>
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/foresight-health/home">Home</Link>
               </li>
               <li>
-                <Link to="/estimators">Price Estimators</Link>
+                <Link to="/foresight-health/estimators">Price Estimators</Link>
               </li>
               <li>
-                <Link to="/services">Services</Link>
+                <Link to="/foresight-health/services">Services</Link>
               </li>
               <li>
-                <Link to="/contact">Contact</Link>
+                <Link to="/foresight-health/contact">Contact</Link>
               </li>
             </ul>
           </nav>
@@ -30,10 +30,10 @@ function App() {
 
         <main>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/estimators" element={<EstimatorPage />} />
-            <Route path="/services" element={<div>Services Page</div>} />
-            <Route path="/contact" element={<div>Contact Page</div>} />
+            <Route path="/foresight-health/home" element={<Home />} />
+            <Route path="/foresight-health/estimators" element={<EstimatorPage />} />
+            <Route path="/foresight-health/services" element={<div>Services Page</div>} />
+            <Route path="/foresight-health/contact" element={<div>Contact Page</div>} />
           </Routes>
         </main>
       </div>
